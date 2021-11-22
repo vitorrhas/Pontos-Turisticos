@@ -44,5 +44,5 @@ String conexao = "Server=NOME DO SERVIDOR ; Database=NOME DO BANCO ; integrated 
 
 ```
 
-*OBS 1: Caso tenha usado os códigos de criação do banco como consta no arquivo não é necessário alterar o comando 'Database'*   
-*OBS 2: O banco foi criado com Autenticação do Windows, por isso não é necessário ID e Senha*
+*OBS 1: Caso tenha usado os códigos de criação do banco como consta no arquivo não é necessário alterar o comando 'Database'.*   
+*OBS 2: O banco foi criado com Autenticação do Windows, por isso não é necessário ID e Senha.*
