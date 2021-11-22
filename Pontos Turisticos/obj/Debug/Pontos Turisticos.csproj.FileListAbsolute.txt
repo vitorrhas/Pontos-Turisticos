@@ -1,0 +1,164 @@
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.dll.config
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.exe
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.exe.config
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.rsp
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.exe
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.exe.config
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.rsp
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.AppContext.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Collections.Immutable.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Console.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Globalization.Calendars.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.Compression.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.FileSystem.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Net.Http.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Net.Sockets.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.ValueTuple.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XPath.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.exe
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.exe.config
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.rsp
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\VBCSCompiler.exe
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\roslyn\VBCSCompiler.exe.config
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Antlr3.Runtime.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\AspNet.ScriptManager.jQuery.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.Web.Infrastructure.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Newtonsoft.Json.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\System.Web.Optimization.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\WebGrease.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\System.Web.Optimization.xml
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Newtonsoft.Json.xml
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Antlr3.Runtime.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.AssemblyReference.cache
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.CoreCompileInputs.cache
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.CopyComplete
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Domain.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Repository.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Services.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Domain.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Repository.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Pontos Turisticos\bin\Services.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.dll.config
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Pontos Turisticos.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.exe
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.exe.config
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csc.rsp
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.exe
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.exe.config
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\csi.rsp
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.AppContext.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Collections.Immutable.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Console.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Globalization.Calendars.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.Compression.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.FileSystem.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Net.Http.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Net.Sockets.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.ValueTuple.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XPath.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.exe
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.exe.config
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\vbc.rsp
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\VBCSCompiler.exe
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\roslyn\VBCSCompiler.exe.config
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Antlr3.Runtime.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\AspNet.ScriptManager.jQuery.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Domain.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.Web.Infrastructure.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Newtonsoft.Json.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Repository.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Services.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\System.Web.Optimization.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\WebGrease.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Domain.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Repository.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Services.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\System.Web.Optimization.xml
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Newtonsoft.Json.xml
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Antlr3.Runtime.pdb
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\bin\pt-br\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.AssemblyReference.cache
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.CoreCompileInputs.cache
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.csproj.CopyComplete
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.dll
+D:\Teste Web\Projeto\CadastroTurismo\Pontos Turisticos\Pontos Turisticos\obj\Debug\Pontos Turisticos.pdb

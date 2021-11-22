@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06d93315-4a8c-4ce3-a02b-5a543e759ca6": {
+      "ProjectGuid": "06d93315-4a8c-4ce3-a02b-5a543e759ca6",
+      "DisplayName": "Pontos Turisticos",
+      "ColorIndex": 0
+    },
+    "decd61a0-9d57-4f56-85ac-2300675e960e": {
+      "ProjectGuid": "decd61a0-9d57-4f56-85ac-2300675e960e",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "f0857496-5884-4c1d-a6d5-8c644874249c": {
+      "ProjectGuid": "f0857496-5884-4c1d-a6d5-8c644874249c",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "ad093f3a-2d8f-4d91-9c9d-c83c772c5d29": {
+      "ProjectGuid": "ad093f3a-2d8f-4d91-9c9d-c83c772c5d29",
+      "DisplayName": "Repository",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,6 @@
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\bin\Debug\Domain.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\bin\Debug\Domain.pdb
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\obj\Debug\Domain.dll
+D:\Teste Web\Projeto\CadastroTurismo V1.1\Pontos Turisticos\Domain\obj\Debug\Domain.pdb
