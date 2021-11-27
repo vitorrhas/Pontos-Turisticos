@@ -13,7 +13,7 @@ Para configurar o projeto será necessário um banco de dados e é possível cri
 
 ```
 
-Create Database Turismo2;
+Create Database Turismo;
 
 ```
 
